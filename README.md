@@ -44,4 +44,6 @@ Le chiffrement radio ne protège pas contre le brouillage. La supervision des ca
 
 ## Licence
 
-[MIT](LICENSE).
+Copyright (c) 2026 Rogelio CANEDO.
+
+Cerbère est distribué sous la [GNU General Public License v3.0](LICENSE) (GPL-3.0-only).
